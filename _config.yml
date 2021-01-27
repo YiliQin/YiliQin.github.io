@@ -5,21 +5,18 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
 # Site Settings
 locale                   : "en-US"
-title                    : "Yili Qin / Humanoid Robot Manipulation Planning and Control"
+title                    : "Humanoid Robot Manipulation Planning and Control"
+#title                    : "Yili Qin / Humanoid Robot Manipulation Planning and Control"
 title_separator          : "-"
 name                     : &name "Yili Qin"
 description              : &description "Robotics"
 url                      : https://YiliQin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
+#repository               : ""
 repository               : "YiliQin/YiliQin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-logo                     : "hrp5.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -85,9 +82,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yili Qin"
-  avatar           : "me.png"
-  bio              : "Ph.D student at University of Tsukuba. Research assistant at CNRS-AIST Joint Robotics Laboratory (JRL), AIST."
+  name             : "name"
+  #name             : "Yili Qin"
+  #avatar           : "me.png"
+  avatar           : ""
+  #bio              : "Ph.D student at University of Tsukuba. Research assistant at CNRS-AIST Joint Robotics Laboratory (JRL), AIST."
+  bio              : "Ph.D student at University of Tsukuba."
   location         : "Tsukuba, Ibaraki, Japan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -101,7 +101,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YiliQin"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
