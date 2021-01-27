@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D student in Intelligent and Mechanical Interaction System, University of Tsukuba, 2019~2022 (expected)
-* M.S. in Intelligent and Mechanical Interaction System, University of Tsukuba, 2017~2019
-* B.S. in GitHub, Northeastern University (China), 2006~2010
+* Ph.D student in Intelligent and Mechanical Interaction System, University of Tsukuba, 2019.4 ~ 2022.3 (Expected)
+* M.S. in Intelligent and Mechanical Interaction System, University of Tsukuba, 2017.4 ~ 2019.3
+* B.S. in GitHub, Northeastern University (China), 2006.9 ~ 2010.7
 
 Work experience
 ======
-* 2018~present: Research Assistant
-  * National Institute of Advanced Industrial Science and Technology (AIST)
+* 2018 ~ Present: Research Assistant
+  * National Institute of Advanced Industrial Science and Technology (AIST), Japan
   * Duties included: Research about humanoid robot
 
-* 2010~2015: FPGA Engineer
-  * Beijing
+* 2010 ~ 2015: FPGA Engineer
+  * BeiJing, China
   * Duties included: Communication equipment development
   
 Skills
