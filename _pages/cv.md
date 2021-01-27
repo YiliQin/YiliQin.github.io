@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D student in Intelligent and Mechanical Interaction System, University of Tsukuba, 2019~2022 (expected)
+* M.S. in Intelligent and Mechanical Interaction System, University of Tsukuba, 2017~2019
+* B.S. in GitHub, Northeastern University (China), 2006~2010
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018~present: Research Assistant
+  * National Institute of Advanced Industrial Science and Technology (AIST)
+  * Duties included: Research about humanoid robot
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2010~2015: FPGA Engineer
+  * Beijing
+  * Duties included: Communication equipment development
   
 Skills
 ======
