@@ -22,7 +22,7 @@ Work experience
   * Duties included: Research about humanoid robot
 
 * 2010 ~ 2015: FPGA Engineer
-  * BeiJing, China
+  * Beijing, China
   * Duties included: Communication equipment development
   
 Skills
