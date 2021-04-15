@@ -9,11 +9,20 @@ redirect_from:
 ---
 
 I received the M.S. degree from the University of Tsukuba in 2019. I am now Ph.D. student at the University of Tsukuba and research assistant at CNRS-AIST Joint Robotics Laboratory (JRL) in AIST, Japan. My research interests include whole-body motion planning and control for humanoid robots, robotic manipulation for deformable objects.
+* Ph.D. student in Intelligent and Mechanical Interaction System, University of Tsukuba (2019.4-Now)
+* M.S. in Intelligent and Mechanical Interaction System, University of Tsukuba (2017.4-2019.3)
+* B.S. in GitHub, Northeastern University in China (2006.9-2010.6)
 
-Join the team Janus for ANA Avatar XPRIZE Robot Challenge
+Team member of Janus for ANA Avatar XPRIZE Robot Challenge
 ======
 As one of the [38 teams](https://www.xprize.org/prizes/avatar/articles/38-semifinalist-teams-from-16-countries-aim-to-create-an-avatar-system) from 16 countries all around the world, team [Janus](https://unit.aist.go.jp/jrl-2/en/projects/janus/team-janus.html) passed the semifinalists selection for the [ANA Avatar XPRIZE](https://www.xprize.org/home) Robot Challenge. The finals will be held in the United States on Dec. 2021. In the team, my work will be mainly about robot motion generation and software integration.
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+ 
 <!--Getting started-->
 <!--======-->
 <!--1. Register a GitHub account if you don't have one and confirm your e-mail (required!)-->

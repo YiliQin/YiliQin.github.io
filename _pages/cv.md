@@ -20,7 +20,6 @@ Work experience
 * 2018 ~ Present: Research Assistant
   * National Institute of Advanced Industrial Science and Technology (AIST), Japan
   * Duties included: Research about humanoid robot
-
 * 2010 ~ 2015: FPGA Engineer
   * Beijing, China
   * Duties included: Communication equipment development
@@ -34,12 +33,6 @@ Skills
 * VHDL/Verilog
 * English/日本語
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
 * Member of team Janus for ANA Avatar Xprize Robot Challenge (2021) 
