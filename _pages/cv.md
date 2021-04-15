@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Languages
+======
+* Chinese(中国语)
+    * Native
+* English
+    * TOEIC: 850
+* Japanese(日本語)
+    * JLPT: N1
+
 Education
 ======
 * Ph.D. student in Intelligent and Mechanical Interaction System, University of Tsukuba, 2019.4 ~ 2022.3 (Expected)
@@ -31,8 +40,7 @@ Skills
 * ROS 
 * Git/CI/Docker/gdb
 * VHDL/Verilog
-* English/日本語
 
 Service and leadership
 ======
-* Member of team Janus for ANA Avatar Xprize Robot Challenge (2021) 
+* Member of team Janus for ANA AVATAR XPRIZE Robot Challenge (2021) 
