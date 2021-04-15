@@ -27,12 +27,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++/Python
+  <!--* Sub-skill 2.1-->
+  <!--* Sub-skill 2.2-->
+  <!--* Sub-skill 2.3-->
+* ROS 
+* Git/CI/Docker/gdb
+* English/日本語
 
 Publications
 ======
@@ -40,18 +41,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member of team Janus for ANA Avatar Xprize Robot Challenge (2021) 
