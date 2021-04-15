@@ -10,9 +10,9 @@ redirect_from:
 
 I received the M.S. degree from the University of Tsukuba in 2019. Now, I am a Ph.D. student at the University of Tsukuba and research assistant at CNRS-AIST Joint Robotics Laboratory (JRL) in AIST, Japan. My research interests include whole-body motion planning and control for humanoid robots, robotic manipulation for deformable objects.
 - Education
-    * Ph.D. student in Intelligent and Mechanical Interaction System, University of Tsukuba (2019.4~2022.3 Expected)
-    * M.S. in Intelligent and Mechanical Interaction System, University of Tsukuba (2017.4~2019.3)
-    * B.S. in GitHub, Northeastern University in China (2006.9~2010.6)
+    * Ph.D. student in Intelligent and Mechanical Interaction System, University of Tsukuba, Japan (2019.4~2022.3 Expected)
+    * M.S. in Intelligent and Mechanical Interaction System, University of Tsukuba, Japan (2017.4~2019.3)
+    * B.S. in Northeastern University, China (2006.9~2010.6)
 * Work Experience
     * Student research assistant (2018.4~Present) 
         * National Institute of Advanced Industrial Science and Technology (AIST), Japan
@@ -21,9 +21,9 @@ I received the M.S. degree from the University of Tsukuba in 2019. Now, I am a P
         * Beijing, China
         * R&D for communication equipments
      
-Team member of Janus for ANA Avatar XPRIZE Robot Challenge
+Member of team Janus for ANA AVATAR XPRIZE Robot Challenge
 ======
-As one of the [38 teams](https://www.xprize.org/prizes/avatar/articles/38-semifinalist-teams-from-16-countries-aim-to-create-an-avatar-system) from 16 countries all around the world, team [Janus](https://unit.aist.go.jp/jrl-2/en/projects/janus/team-janus.html) passed the semifinalists selection for the [ANA Avatar XPRIZE](https://www.xprize.org/home) Robot Challenge. The finals will be held in the United States on Dec. 2021. In the team Janus, my work are mainly about robot motion generation and software integration.
+As one of the [38 teams](https://www.xprize.org/prizes/avatar/articles/38-semifinalist-teams-from-16-countries-aim-to-create-an-avatar-system) from 16 countries all around the world, team [Janus](https://unit.aist.go.jp/jrl-2/en/projects/janus/team-janus.html) passed the semifinalists selection for the [ANA AVATAR XPRIZE](https://www.xprize.org/home) Robot Challenge. The finals will be held in the United States on Dec. 2021. In the team Janus, my work are mainly about robot motion generation and software integration.
 
 ![ana_avatar](/images/ana-avatar.png)
 
