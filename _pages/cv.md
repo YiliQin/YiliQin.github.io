@@ -9,38 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
-Languages
+Language Skills
 ======
-* Chinese(中国语)
-    * Native
-* English
-    * TOEIC: 850
-* Japanese(日本語)
-    * JLPT: N1
+* Mandarin(中国语): Native
+* English(英語): TOEIC 800
+* Japanese(日本語): JLPT N1
 
-Education
-======
-* Ph.D. student in Intelligent and Mechanical Interaction System, University of Tsukuba, 2019.4 ~ 2022.3 (Expected)
-* M.S. in Intelligent and Mechanical Interaction System, University of Tsukuba, 2017.4 ~ 2019.3
-* B.S. in GitHub, Northeastern University (China), 2006.9 ~ 2010.7
-
-Work experience
-======
-* 2018 ~ Present: Research Assistant
-  * National Institute of Advanced Industrial Science and Technology (AIST), Japan
-  * Duties included: Research about humanoid robot
-* 2010 ~ 2015: FPGA Engineer
-  * Beijing, China
-  * Duties included: Communication equipment development
-  
-Skills
+Other Skills
 ======
 * C/C++/Python
 * Matlab/Octave
 * ROS 
 * Git/CI/Docker/gdb
 * VHDL/Verilog
+* Vim/Emacs
 
-Service and leadership
+Education
 ======
-* Member of team Janus for ANA AVATAR XPRIZE Robot Challenge (2021) 
+* Ph.D. student at Intelligent and Mechanical Interaction System, University of Tsukuba, Japan (2019.4~2022.3 Expected)
+* M.S. at Intelligent and Mechanical Interaction System, University of Tsukuba (2017.4~2019.3)
+* B.S. at Northeastern University, China (2006.9~2010.7)
+
+Work Experience
+======
+* Research Assistant (2018.4~Present)
+    * Research about deformable object manpulation by humanoid robot
+    * National Institute of Advanced Industrial Science and Technology (AIST), Japan
+* FPGA Engineer (2010~2015)
+    * R&D for communication equipments
+    * Beijing, China
+
+Competitions
+======
+* ANA AVATAR XPRIZE Robot Challenge, United States, 2021
+    * Member of team Janus
+    * Enter the semifinals (Finals will be on Dec. 2021)
+* National Undergraduate Electronic Design Competition, China, 2010
+    * Topic: Sound location system
+    * Member of a 3-person team
+    * First prize of the Province

@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I received the M.S. degree from the University of Tsukuba in 2019. Now, I am a Ph.D. student at the University of Tsukuba and research assistant at CNRS-AIST Joint Robotics Laboratory (JRL) in AIST, Japan. My research interests include whole-body motion planning and control for humanoid robots, robotic manipulation for deformable objects.
+I received the M.S. degree from the University of Tsukuba in 2019. Now, I am a Ph.D. student at the University of Tsukuba and research assistant at [CNRS-AIST Joint Robotics Laboratory (JRL)](https://unit.aist.go.jp/jrl-2/en/members.html) in AIST, Japan. My research interests include whole-body motion planning and control for humanoid robots, robotic manipulation for deformable objects.
 - Education
-    * Ph.D. student in Intelligent and Mechanical Interaction System, University of Tsukuba, Japan (2019.4~2022.3 Expected)
-    * M.S. in Intelligent and Mechanical Interaction System, University of Tsukuba, Japan (2017.4~2019.3)
-    * B.S. in Northeastern University, China (2006.9~2010.6)
+    * Ph.D. student at Intelligent and Mechanical Interaction System, University of Tsukuba, Japan (2019.4~2022.3 Expected)
+    * M.S. at Intelligent and Mechanical Interaction System, University of Tsukuba, Japan (2017.4~2019.3)
+    * B.S. at Northeastern University, China (2006.9~2010.6)
 * Work Experience
     * Student research assistant (2018.4~Present) 
         * National Institute of Advanced Industrial Science and Technology (AIST), Japan
-        * Research about deofrmation object manipulation with humanoid robot 
+        * Research about deofrmation object manipulation by humanoid robot 
     * FPGA engineer (2010~2015)
         * Beijing, China
         * R&D for communication equipments
