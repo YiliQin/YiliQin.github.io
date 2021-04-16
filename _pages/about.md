@@ -21,7 +21,7 @@ I received the M.S. degree from the University of Tsukuba in 2019. Now, I am a P
         * Beijing, China
         * R&D for communication equipments
      
-Member of team Janus for ANA AVATAR XPRIZE Robot Challenge
+Member of team Janus for ANA AVATAR XPRIZE
 ======
 As one of the [38 teams](https://www.xprize.org/prizes/avatar/articles/38-semifinalist-teams-from-16-countries-aim-to-create-an-avatar-system) from 16 countries all around the world, team [Janus](https://unit.aist.go.jp/jrl-2/en/projects/janus/team-janus.html) passed the semifinalists selection for the [ANA AVATAR XPRIZE](https://www.xprize.org/home) Robot Challenge. The finals will be held in the United States on Dec. 2021. In the team Janus, my work are mainly about robot motion generation and software integration.
 
