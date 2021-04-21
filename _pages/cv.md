@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+------
+
 Language Skills
 ======
-Chinese(Native) / English(TOEIC 800) / Japanese(JLPT N1)
+Chinese(Native) | English(TOEIC: 800) | Japanese(JLPT: N1)
 
 Other Skills
 ======
