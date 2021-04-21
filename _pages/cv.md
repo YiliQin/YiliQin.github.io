@@ -11,9 +11,7 @@ redirect_from:
 
 Language Skills
 ======
-* Mandarin(中国语): Native
-* English(英語): TOEIC 800
-* Japanese(日本語): JLPT N1
+Chinese(Native) / English(TOEIC 800) / Japanese(JLPT N1)
 
 Other Skills
 ======
@@ -23,12 +21,19 @@ Other Skills
 * Git/CI/Docker/gdb
 * VHDL/Verilog
 * Vim/Emacs
+* Latex
 
 Education
 ======
 * Ph.D. student at Intelligent and Mechanical Interaction System, University of Tsukuba, Japan (2019.4~2022.3 Expected)
 * M.S. at Intelligent and Mechanical Interaction System, University of Tsukuba (2017.4~2019.3)
 * B.S. at Northeastern University, China (2006.9~2010.7)
+
+Memberships
+======
+* IEEE Robotics and Automation Society(RAS)
+* 日本ロボット学会(RSJ)
+* 日本機械学会(JSME)
 
 Work Experience
 ======

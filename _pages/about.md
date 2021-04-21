@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I received the M.S. degree from the University of Tsukuba in 2019. Now, I am a Ph.D. student at the University of Tsukuba and research assistant at [CNRS-AIST Joint Robotics Laboratory (JRL)](https://unit.aist.go.jp/jrl-2/index_en.html) in AIST, Japan. My research interests include whole-body motion planning and control for humanoid robots, robotic manipulation for deformable objects.
-- Education
+I received the M.S. degree from the University of Tsukuba in 2019. Now, I am a Ph.D. student at the University of Tsukuba and research assistant at [CNRS-AIST Joint Robotics Laboratory (JRL)](https://unit.aist.go.jp/jrl-2/index_en.html) in AIST, Japan.
+My research interests include whole-body motion planning and control for humanoid robots, robotic manipulation for long deformable objects like cables, belts and so on.
+* Education
     * Ph.D. student at Intelligent and Mechanical Interaction System, University of Tsukuba, Japan (2019.4~2022.3 Expected)
     * M.S. at Intelligent and Mechanical Interaction System, University of Tsukuba, Japan (2017.4~2019.3)
     * B.S. at Northeastern University, China (2006.9~2010.6)
@@ -27,13 +28,22 @@ As one of the [38 teams](https://www.xprize.org/prizes/avatar/articles/38-semifi
 
 ![ana_avatar](/images/ana-avatar.png)
 
-Publications
+Publications(International)
 ======
 
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>
+{% for post in site.publications %}
+{% include archive-single-cv.html %}
+{% endfor %}
+</ul>
      
+
+Publications/Talks(Domestic)
+======
+* Take a Long Deformable Belt out of a Bobbin by Humanoid Robot, Y. Qin, A. Escande, A. Tanguy, E. Yoshida, ロボティクス・メカトロニクス講演会(ROBOMECH), 2020
+* Cable Installation by a Humanoid Integrating Dual-arm Manipulation and Walking, Y. Qin, A. Escande, E. Yoshida, 平成30年度先端ロボット工学合同ワークショップ, 2018
+* Dual-arm Cable Manipulation by Whole-body Control of a Humanoid Robot, Y. Qin, A. Escande, E. Yoshida, ロボティクス・メカトロニクス講演会(ROBOMECH), 2018
+
 <!--Getting started-->
 <!--======-->
 <!--1. Register a GitHub account if you don't have one and confirm your e-mail (required!)-->
